@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Overall Standings</string>
+    <string name="add_todo">Add TODO</string>
+    <string name="error_fetching_countries">Error fetching teams</string>
+    <string name="offline_error_fetching">Seems the device is offline</string>
+    <string name="error_fetching_countries_empty">Server returned empty list</string>
+    <string name="unknown_error">Unknown Error. Please try again</string>
+    <string name="team_1">Team 1</string>
+    <string name="_0">0</string>
+    <string name="team_name">Team Name</string>
+    <string name="wins">W</string>
+    <string name="loses">L</string>
+    <string name="draws">D</string>
+    <string name="wins_per">Win %</string>
+</resources>
