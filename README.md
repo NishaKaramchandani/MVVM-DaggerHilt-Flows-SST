@@ -24,12 +24,3 @@
 
 ## How to build/run app.
 - Minimum API 24, Target SDK 33. Works in landscape and portrait mode.
-
-## Problem Solving:
-- How to structure data classes for different layers.
-- Build issues when using safe args and Hilt in the same project. Took some time to research and figured out that I need to upgrade Hilt from 2.45 -> 2.47 to solve it.
-- Enabling back navigation with Navigation Components
-
-## Improvements
-- Would refine UI better given more time. I focused more on the architecture, model and view model layer.
-- After GameEntities -> Team, Team Details conversion, this data can be cached or stored in db depending on how frequently we expect this data to change. This would mean the app won't have to do the data processing everytime.
